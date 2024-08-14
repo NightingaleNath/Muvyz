@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Muvyz</string>
+    <string name="unlike">Unlike</string>
+    <string name="like">Like</string>
+    <string name="about_title">About</string>
+    <string name="v">v%1$s-(%2$s)</string>
+    <string name="get_in_touch">Get in touch</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate us</string>
+    <string name="casts">Casts</string>
+    <string name="view_all">View all</string>
+    <string name="cast">Cast</string>
+    <string name="release_date">Release date</string>
+    <string name="search">Search..</string>
+    <string name="search_title">Search</string>
+    <string name="change_theme">Change Theme</string>
+    <string name="trending_today">Trending today</string>
+    <string name="tv_shows">Tv Shows</string>
+    <string name="popular">Popular</string>
+    <string name="on_air">On Air</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="airing_today">Airing today</string>
+    <string name="now_playing">Now playing</string>
+    <string name="top_rated">Top rated</string>
+    <string name="movies">Movies</string>
+    <string name="genres">Genres</string>
+    <string name="delete_all_favorites">Delete all favorites</string>
+    <string name="are_you_want_to_delete_all">Are you want to delete all?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="favorites">Favorites</string>
+</resources>
